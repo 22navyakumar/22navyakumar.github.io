@@ -1,0 +1,121 @@
+
+
+
+
+body
+{
+  background-image: url(../img/purple.jpg);
+  color:black;
+  font-size:21px
+  font family: futura;
+
+}
+@keyframes example {
+
+  from{background-color: #ffccf2;}
+  to {background-color:  #e0b3ff;}
+
+}
+img{
+  animation: center
+}
+h1
+{
+  font-size: 35px;
+  color:#330033;
+   font: 70px Futura, "Trebuchet MS", Arial, sans-serif;
+
+   width: 100%;
+   border-bottom:10px solid #330033;
+
+
+   border-spacing: 0px;
+background-color: #e6e6ff;
+padding: 30px;
+margin-top:0px;
+
+
+  text-align:center;
+
+}
+
+.abc{
+  color:black;
+   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+   font-size: 24px;
+  text-align:center;
+  margin-bottom: 0px;
+}
+
+
+h3
+{text-align: center;
+  font-family: monospace;
+  font-size: 40px;
+  margin-top: 0px;
+
+}
+body{
+     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+        font-size: 24px;
+          text-align:center;
+
+
+}
+
+h4,h5,h6,h2
+{
+  font-family: "Century Gothic",sans-serif;
+  font-size: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: .05px solid white;
+  border-bottom: 0px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color:  #e0b3ff;
+  animation-name: example;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  color:white;
+
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+
+}
+
+
+
+    .p2,.p3, .p4,.p6{
+      background-image: url(../img/notebook.png);
+      background-size: 300px 100px
+      background-position: center;
+      margin: 0px;
+      border: 1px solid white;
+      padding:10px;
+      color:#330033;
+      margin-left: auto;
+      margin-right: auto;
+    margin-bottom: 20px;
+      margin-top: 0;
+      width: 40%;
+      text-align: left;
+      font-family:"Courier new"
+      font-style:normal;
+}
+.p5{
+  width: 100%;
+  border-top:10px solid #330033;
+  color:#e6e6ff
+
+
+  border-spacing: 0px;
+background-color: #e6e6ff;
+padding: 30px;
+margin-top:0px;
+
+}
