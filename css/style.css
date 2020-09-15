@@ -12,8 +12,8 @@ body
 }
 @keyframes example {
 
-  from{background-color: #ffccf2;}
-  to {background-color:  #e0b3ff;}
+  from{background-color: grey;}
+  to {background-color:  black;}
 
 }
 img{
@@ -22,15 +22,15 @@ img{
 h1
 {
   font-size: 35px;
-  color:#330033;
+  color:white;
    font: 70px Futura, "Trebuchet MS", Arial, sans-serif;
 
    width: 100%;
-   border-bottom:10px solid #330033;
+   border-bottom:10px solid grey;
 
 
    border-spacing: 0px;
-background-color: #e6e6ff;
+background-color: black;
 padding: 30px;
 margin-top:0px;
 
@@ -76,7 +76,7 @@ h4,h5,h6,h2
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  background-color:  #e0b3ff;
+  background-color:  black;
   animation-name: example;
   animation-duration: 6s;
   animation-iteration-count: infinite;
@@ -109,12 +109,12 @@ h4,h5,h6,h2
 }
 .p5{
   width: 100%;
-  border-top:10px solid #330033;
-  color:#e6e6ff
+  border-top:10px solid grey;
+  color:white
 
 
   border-spacing: 0px;
-background-color: #e6e6ff;
+background-color: black;
 padding: 30px;
 margin-top:0px;
 
